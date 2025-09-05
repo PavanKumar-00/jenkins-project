@@ -21,8 +21,5 @@ docker run -p 4000:4000 notes-app:latest
 ### Access the App
 - Open browser or use Postman: `http://localhost:4000/notes`
 
-### Run Tests
 
-npm install
-npm test
 
